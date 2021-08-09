@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI/ML for edge
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on ML on edge devices
-- 📫 How to reach me 
+- 📫 How to reach me [linkedIn](https://www.linkedin.com/in/rkshkmr800/)
 
 <!---
 rkshkmr800/rkshkmr800 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
