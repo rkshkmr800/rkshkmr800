@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rkshkmr800
 - 👀 I’m interested in AI/ML for edge
 - 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking to collaborate on ML on edge devices
+- 💞️ I’m looking to collaborate on MLfor edge devices
 - 📫 How to reach me [linkedIn](https://www.linkedin.com/in/rkshkmr800/)
 
 <!---
